@@ -27,10 +27,10 @@ Research experience
 Skills
 ======
 Programming Skills:
-* C(Basic)
-* Matlab(Intermediate) in progress
-* Python(Basic) in progress
-* IDL(Basic) in Progress
+* C (Basic)
+* Matlab (Intermediate) in progress
+* Python (Basic) in progress
+* IDL (Basic) in Progress
 
 Language Skills:
 * Sichuan Dialect
