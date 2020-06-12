@@ -34,7 +34,7 @@ Programming Skills:
 
 Language Skills:
 * Sichuan Dialect
-* Madarin
+* Mandarin
 * English
 * Cantonese
 
