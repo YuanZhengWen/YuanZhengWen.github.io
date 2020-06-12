@@ -80,7 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuanzheng Wen (文渊正)"
+  name             : "Yuanzheng Wen"
+  name             :   "(文渊正)"
   avatar           : "profile.jpg"
   bio              : "An Undergraduate Student Majoring in Space Sciences and Engineering"
   location         : "Chengdu,China"
