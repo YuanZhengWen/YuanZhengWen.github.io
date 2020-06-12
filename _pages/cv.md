@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chengdu University of Technology, 2018-Present
 
-Research experience
+Research xperience
 ======
 * 2019 Fall-Present: Research Assistant
   * Chengdu University of Technology
