@@ -51,7 +51,7 @@ Teaching
 ======
 * 2019 Spring,2019 Fall:Teaching Assitant
 * Course：College Physics
-* Professor:Dr.Huajun Wang
+* Professor: Dr.Huajun Wang
   
 Awards
 ======
