@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in XiAn University of Technology, 2018-Present
+* B.S. in Chengdu University of Technology, 2018-Present
 
 Research Experience
 ======
 * 2019 Fall-Present: Research Assistant
-  * XiAn University of Technology
+  * Chengdu University of Technology
   * Research Topic: Investgations of Ionospheric and Magnetospheric Anomalies before Strong Earthquakes
   * Duties included: PI
   * Supervisor: Dr.Dan Tao
@@ -45,7 +45,7 @@ Publications
   
 Talks
 ======
-* 2019 Fall: Research Project Brief Report and Presentation,School of Geophysics,XiAn University of Technology
+* 2019 Fall: Research Project Brief Report and Presentation,School of Geophysics,Chengdu University of Technology
   
 Teaching
 ======
