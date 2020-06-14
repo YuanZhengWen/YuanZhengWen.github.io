@@ -20,7 +20,7 @@ Research Experience
   * Research Topic: Investgations of Ionospheric and Magnetospheric Anomalies before Strong Earthquakes
   * Duties included: PI
   * Supervisor: Dr.Dan Tao
-* 2020 Summer: Research Assistant
+* 2020 Summer: Research Intern
   * National Space Sciences Center,Chinese Academy of Sciences (CAS)
 
   
@@ -49,7 +49,7 @@ Talks
   
 Teaching
 ======
-* 2019 Spring,2019 Fall:Teaching Assitant
+* 2019 Spring,2019 Fall:Teaching Assistant
 * Course：College Physics
 * Professor: Dr.Huajun Wang
   
