@@ -12,7 +12,13 @@ redirect_from:
  I will try to keep my website frequently updated and make it better!
  
  
+---
+permalink: /
 title: "Research Interests"
+excerpt: "About me"
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
