@@ -11,14 +11,10 @@ redirect_from:
  
  I will try to keep my website frequently updated and make it better!
  
+Research Interests
+======
+As an undergraduate student, I am still exploring my research interests, as for now I may tend to conduct research about
+* Space Plasma Physics
+* Planetary Space Physics (About Mars)
  
----
-permalink: /
-title: "Research Interests"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
