@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chengdu University of Technology, 2018-Present
+* Shehong High School of Sichuan Province, September 2015- June 2018
+* B.S. in Chengdu University of Technology, September 2018-Present
 
 Research Experience
 ======
@@ -35,7 +36,7 @@ Programming Skills:
 Language Skills:
 * Sichuan Dialect
 * Mandarin
-* English
+* English (CET4:624 CET6:635)
 * Cantonese
 
 
@@ -56,6 +57,7 @@ Teaching
 Awards
 ======
 * Second Prize in Mathematical Competitions for Collge Students, Chinese Mathematical Society (CMS)
+* Second Prize in 34rd Chinese Physics Olympiad for High School Students, Chinese Physical Society (CPS)
 
 Service and leadership
 ======
