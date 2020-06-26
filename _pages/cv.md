@@ -18,7 +18,7 @@ Research Experience
 ======
 * 2019 Fall-Present: Research Assistant
   * Chengdu University of Technology
-  * Research Topic: Investgations of Ionospheric and Magnetospheric Anomalies before Strong Earthquakes
+  * Research Topic: Investgations of Ionospheric TEC (Total Electron Content) and Plasma Parameters Anomalies before Strong Earthquakes
   * Duties included: PI
   * Supervisor: Dr.Dan Tao
 * 2020 Summer: Research Intern
