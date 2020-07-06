@@ -59,6 +59,6 @@ Awards
 * Second Prize in Mathematical Competitions for Collge Students, Chinese Mathematical Society (CMS)
 * Second Prize in 34rd Chinese Physics Olympiad for High School Students, Chinese Physical Society (CPS)
 
-Service and leadership
+Service and Memberhip
 ======
-* Currently signed in to 43 different slack teams
+* Student Member of AGU (American Geophysical Union)
