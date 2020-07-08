@@ -16,5 +16,6 @@ Research Interests
 As an undergraduate student, I am still exploring my research interests, as for now I may tend to conduct research about
 * Space Plasma Physics
 * Planetary Space Physics (About Mars)
+* Planetary Sciences
  
 
