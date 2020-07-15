@@ -62,3 +62,8 @@ Awards
 Service and Memberhip
 ======
 * Student Member of AGU (American Geophysical Union)
+
+Academic and Life Outreach
+======
+* Team Member of CDUT Badminton Team
+* 2020 USTC-CAS Summer School in Planetary Sciences Participant
