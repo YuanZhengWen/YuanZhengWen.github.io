@@ -59,7 +59,7 @@ Teaching
 Awards
 ======
 * Second Prize in Mathematical Competitions for Collge Students, Chinese Mathematical Society (CMS)
-* Second Prize in 34rd Chinese Physics Olympiad for High School Students, Chinese Physical Society (CPS)
+* Second Prize in 34th Chinese Physics Olympiad for High School Students, Chinese Physical Society (CPS)
 
 Service and Memberhip
 ======
