@@ -23,6 +23,8 @@ Research Experience
   * Supervisor: Dr.Dan Tao
 * 2020 Summer: Research Intern
   * National Space Sciences Center,Chinese Academy of Sciences (CAS)
+  * Research Topic: The Influence of Magnetic Anomaly Changes on the Martian Space Environment (Ion Escape)
+  * Supervisor: Dr.Yiteng Zhang
 
   
 Skills
