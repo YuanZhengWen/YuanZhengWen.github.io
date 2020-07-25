@@ -50,6 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   theme                  : minimal-mistakes-jekyll
   minimal_mistakes_skin  :  "mint"
+  search: true
 
 # SEO Related
 google_site_verification :
