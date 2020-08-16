@@ -27,7 +27,7 @@ Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupl
 
 <center> <em> A diagram demonstrating TEC anomlies before 2007 M7.7 Java earthquake.Figure sourced from <a href="https://angeo.copernicus.org/articles/35/589/2017/">Tao et al., 2017</a>.</em> </center>
 
-### Planetatry Space Physics (About Mars)
+### Planetary Space Physics (About Mars)
 
 The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. The solar wind interaction with Mars plays a crucial role in Martian atmospheric evolution, I am working with Dr.Yiteng Zhang on solar wind interaction with Mars and ion escape process to gain a better understanding of Martian atmopsheric escape process. 
 
