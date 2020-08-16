@@ -21,8 +21,8 @@ Research Experience
   * Research Topic: Investgations of Ionospheric TEC (Total Electron Content) and Plasma Parameters Anomalies before Strong Earthquakes
   * Duties included: PI
   * Supervisor: Dr.Dan Tao
-* 2020 Summer: Research Intern
-  * National Space Sciences Center,Chinese Academy of Sciences (CAS)
+* 2020 Summer-Present: Research Intern
+  * State Key Laboratory for Space Weather,National Space Sciences Center,Chinese Academy of Sciences (CAS)
   * Research Topic: The Influence of Magnetic Anomaly Changes on the Martian Space Environment (Ion Escape)
   * Supervisor: Dr.Yiteng Zhang
 
@@ -61,7 +61,7 @@ Awards
 * Second Prize in Mathematical Competitions for Collge Students, Chinese Mathematical Society (CMS)
 * Second Prize in 34th Chinese Physics Olympiad for High School Students, Chinese Physical Society (CPS)
 
-Service and Memberhip
+Service and Membership
 ======
 * Student Member of AGU (American Geophysical Union)
 
