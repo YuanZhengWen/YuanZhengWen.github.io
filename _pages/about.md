@@ -14,11 +14,10 @@ redirect_from:
  You can also follow my Github, Twitter and Facebook in the "Follow" section. 
  
 ## Research Interests
-======
 As an undergraduate student, I am still exploring my research interests, as for now I may tend to conduct research about
-* [Seismic Ionospheric Anomalies](#Seismic Ionospheric Anomalies)
-* [Planetary Space Physics (About Mars)](#Planetary Space Physics (About Mars))
-* Planetary Sciences
+- [Seismic Ionospheric Anomalies](#Seismic Ionospheric Anomalies)
+- [Planetary Space Physics (About Mars)](#Planetary Space Physics (About Mars))
+
 
 ### Seismic Ionospheric Anomalies
 
