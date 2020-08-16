@@ -19,5 +19,7 @@ As an undergraduate student, I am still exploring my research interests, as for 
 * Space Plasma Physics
 * Planetary Space Physics (About Mars)
 * Planetary Sciences
- 
 
+<img src="../images/Maven_NASAGSFC.png" alt="Drawing" /> 
+
+<center> <em> Artist's impression of solar wind interaction with the current Mars space environment. Image courtesy of <a href="https://www.nasa.gov/press-release/nasa-mission-reveals-speed-of-solar-wind-stripping-martian-atmosphere/">NASA Goddard Space Flight Center.</a> </em> </center>
