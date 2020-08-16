@@ -16,9 +16,15 @@ redirect_from:
 Research Interests
 ======
 As an undergraduate student, I am still exploring my research interests, as for now I may tend to conduct research about
-* Space Plasma Physics
-* Planetary Space Physics (About Mars)
+* [Seismic Ionospheric Anomalies](#Seismic Ionospheric Anomalies)
+* [Planetary Space Physics (About Mars)](#Planetary Space Physics (About Mars))
 * Planetary Sciences
+
+### Seismic Ionospheric Anomalies
+
+### Planetatr Space Physics (About Mars)
+
+The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. The solar wind interaction with Mars plays a crucial role in Martian atmospheric evolution, I am working with Dr.Yiteng Zhang on solar wind interaction with Mars and ion escape process to gain a better understanding of Martian atmopsheric escape process. 
 
 <img src="../images/Maven_NASAGSFC.png" alt="Drawing" /> 
 
