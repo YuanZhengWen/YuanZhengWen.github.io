@@ -22,6 +22,11 @@ As an undergraduate student, I am still exploring my research interests, as for 
 
 ### Seismic Ionospheric Anomalies
 
+Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupling: vertical vibrations of the Earth’s surface launch pressure waves in the neutral atmosphere that grow in amplitude by several orders of magnitude as they attain ionospheric heights. Thus ionspheric anomalies can be regarded as an earthquake precursor, I am working with Dr. Dan Tao to investigate the Total Electron Content (TEC) and plasma parameters (electron, ion density and temperature) anomlies and aim to find out the correlations between ionospheric anomalies and strong earthquakes.
+
+<img src="../images/tao.png" alt="Drawing" /> 
+
+<center> <em> A diagram demonstrating a TEC anomly before 2007 M7.7 Java earthquake.Figure sourced from [Tao et al.,2017](http://academicpages.github.io/files/angeo-35-589-2017.pdf)
 ### Planetatr Space Physics (About Mars)
 
 The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. The solar wind interaction with Mars plays a crucial role in Martian atmospheric evolution, I am working with Dr.Yiteng Zhang on solar wind interaction with Mars and ion escape process to gain a better understanding of Martian atmopsheric escape process. 
