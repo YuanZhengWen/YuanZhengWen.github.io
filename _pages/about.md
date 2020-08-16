@@ -16,9 +16,8 @@ redirect_from:
 ## Research Interests
 As an undergraduate student, I am still exploring my research interests, as for now I may tend to conduct research about
 
-* [Seismic Ionospheric Anomalies](#Seismic Ionospheric Anomalies)
-* [Planetary Space Physics (About Mars)](#Planetary Space Physics (About Mars))
-
+- [Interpretable Machine Learning Methods for Planetary Science](#interpretable-machine-learning-methods-for-planetary-science)
+- [Saturn's Magnetospheric Transport](#saturns-magnetospheric-transport)
 
 ### Seismic Ionospheric Anomalies
 
