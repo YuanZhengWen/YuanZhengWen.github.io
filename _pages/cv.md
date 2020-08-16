@@ -22,7 +22,7 @@ Research Experience
   * Duties included: PI
   * Supervisor: Dr.Dan Tao
 * 2020 Summer-Present: Research Intern
-  * State Key Laboratory for Space Weather,National Space Sciences Center,Chinese Academy of Sciences (CAS)
+  * National Space Sciences Center,Chinese Academy of Sciences (CAS)
   * Research Topic: The Influence of Magnetic Anomaly Changes on the Martian Space Environment (Ion Escape)
   * Supervisor: Dr.Yiteng Zhang
 
