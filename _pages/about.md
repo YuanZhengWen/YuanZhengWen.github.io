@@ -29,7 +29,7 @@ Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupl
 
 ### Planetary Space Physics (About Mars)
 
-The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. The solar wind interaction with Mars plays a crucial role in Martian atmospheric evolution, I am working with Dr.Yiteng Zhang on solar wind interaction with Mars and ion escape process to gain a better understanding of Martian atmopsheric escape process. 
+The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. The solar wind interaction with Mars plays a crucial role in Martian atmospheric evolution, I am working with Dr.Yiteng Zhang on solar wind interaction with Mars (ion escape process) to gain a better understanding of Martian atmopsheric escape process. 
 
 <img src="../images/Maven_NASAGSFC.png" alt="Drawing" /> 
 
