@@ -17,7 +17,7 @@ redirect_from:
 As an undergraduate student, I am still exploring my research interests, as for now I have been involved in research about
 
 - [Seismic Ionospheric Anomalies](#seismic-ionospheric-anomalies)
-- [Planetatr Space Physics (About Mars)](#planetary-space-physics-(about-mars))
+- [Planetary Space Physics (About Mars)](#planetary-space-physics-(about-mars))
 
 ### Seismic Ionospheric Anomalies
 
