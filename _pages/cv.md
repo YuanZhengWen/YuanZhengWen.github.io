@@ -68,4 +68,5 @@ Service and Membership
 Academic and Life Outreach
 ======
 * Team Member of CDUT Badminton Team
-* [2020 USTC-CAS Summer School in Planetary Sciences Participant](https://github.com/YuanZhengWen/YuanZhengWen.github.io/blob/master/files/Certificate.pdf)
+* [2020 USTC-CAS Summer School in Planetary Sciences Participant](http://YuanZhengWen.github.io/files/certificate.pdf
+)
