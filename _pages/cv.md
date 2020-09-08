@@ -17,12 +17,12 @@ Education
 Research Experience
 ======
 * 2019 Fall-Present: Research Assistant
-  * Chengdu University of Technology
+  * <a href="http://www.cdut.edu.cn/">Chengdu University of Technology</a>
   * Research Topic: Investgations of Ionospheric TEC (Total Electron Content) and Plasma Parameters Anomalies before Strong Earthquakes
   * Duties included: PI
   * Supervisor: Dr.Dan Tao
 * 2020 Summer-Present: Research Intern
-  * <a href="http://www.nssc.ac.cn/">National Space Sciences Center, Chinese Academy of Sciences (NSSC)</a>.
+  * <a href="http://www.nssc.ac.cn/">National Space Sciences Center, Chinese Academy of Sciences (CAS)</a>.
 
   * Research Topic: The Influence of Magnetic Anomalies on Martian Space Environment (Ion Escape)
   * Supervisor: Dr.Yiteng Zhang
