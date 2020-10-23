@@ -23,7 +23,7 @@ Research Experience
   * Supervisor: Dr.Dan Tao
 * 2020 Summer-Present: Research Intern (Funded by Chinese Academy of Sciences)
   * <a href="http://english.nssc.cas.cn/">National Space Sciences Center, Chinese Academy of Sciences (CAS)</a>.
-  * Research Topic: MHD Model Investgation of effects of Crustal Fields Rotation on Martian Space Environment (Ion Escape)
+  * Research Topic: MHD Model Investgation of Effects of Crustal Fields Rotation on Martian Space Environment (Ion Escape)
   * Supervisor: Dr.Yiteng Zhang
 
   
