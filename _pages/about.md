@@ -17,7 +17,7 @@ redirect_from:
 As an undergraduate student, I am still exploring my research interests, as for now I have been involved in research about
 
 - [Seismic Ionospheric Anomalies](#seismic-ionospheric-anomalies)
-- [MHD Simulation of Solar Wind Mars Interaction](#MHD-Simulation-of-Solar-Wind-Mars-Interaction)
+- [MHD Simulation of Solar Wind Interaction with Mars](#MHD-Simulation-of-Solar-Wind-Interacion-with-Mars)
 
 ### Seismic Ionospheric Anomalies
 
@@ -27,7 +27,7 @@ Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupl
 
 <center> <em> A diagram demonstrating TEC anomlies before 2006 M7.7 Java earthquake. Figure sourced from <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/full">Tao et al., 2017</a>.</em> </center>
 
-### MHD Simulation of Solar Wind Mars Interaction
+### MHD Simulation of Solar Wind Interaction with Mars
 
 The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. The solar wind interaction with Mars plays a crucial role in Martian atmospheric evolution, I am working with Dr.Yiteng Zhang at National Space Science Center (NSSC) on solar wind interaction with Mars (ion escape process) to gain a better understanding of Martian atmopsheric escape process and planetary evolution history. 
 
