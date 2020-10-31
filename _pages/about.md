@@ -17,7 +17,7 @@ redirect_from:
 As an undergraduate student, I am still exploring my research interests, as for now I have been involved in research about
 
 - [Seismic Ionospheric Anomalies](#seismic-ionospheric-anomalies)
-- [MHD Simulation of Solar Wind Interaction with Mars](#MHD-Simulation-of-Solar-Wind-Interaction-with-Mars)
+- [MHD Simulation of Solar Wind Interaction with Mars](#mhd-simulation-of-solar-wind-interaction-with-mars)
 
 ### Seismic Ionospheric Anomalies
 
