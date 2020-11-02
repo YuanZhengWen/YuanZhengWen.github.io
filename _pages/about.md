@@ -38,4 +38,4 @@ The Mars of several billion years ago is a very differnt Mars than that of today
 
 ## Visitors
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
