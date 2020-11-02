@@ -34,3 +34,8 @@ The Mars of several billion years ago is a very differnt Mars than that of today
 <img src="../images/Maven_NASAGSFC.png" alt="Drawing" /> 
 
 <center> <em> Artist's impression of solar wind interaction with the current Mars space environment. Image courtesy of <a href="https://www.nasa.gov/press-release/nasa-mission-reveals-speed-of-solar-wind-stripping-martian-atmosphere/">NASA Goddard Space Flight Center.</a> </em> </center>
+
+
+## Visitors
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=IOfsTsg_5cgvk99-MCQe3awPo4ClF2ymszy36Pzp-sI&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></scrip
