@@ -25,7 +25,7 @@ Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupl
 
 <img src="../images/tao.png" alt="Drawing" /> 
 
-<center> <em> A diagram demonstrating TEC anomlies before 2006 M7.7 Java earthquake. Figure sourced from <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/full">Tao et al., 2017</a>.</em> </center>
+<center> <em> A diagram demonstrating TEC anomlies before 2006 M7.7 Java earthquake. Figure sourced from <a href="https://angeo.copernicus.org/articles/35/589/2017/angeo-35-589-2017.pdf">Tao et al., 2017</a>.</em> </center>
 
 ### MHD Simulation of Solar Wind Interaction with Mars
 
