@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[cv (pdf version)](http://YuanZhengWen.github.io/files/CV.pdf)
 Education
 ======
 * Shehong High School of Sichuan Province, September 2015- June 2018
