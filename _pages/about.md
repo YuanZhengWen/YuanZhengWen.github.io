@@ -21,7 +21,7 @@ As an undergraduate student, I am still exploring my research interests, as for 
 
 ### Seismic Ionospheric Anomalies
 
-Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupling: vertical vibrations of the Earth’s surface launch pressure waves in the neutral atmosphere that grow in amplitude by several orders of magnitude as they attain ionospheric heights. Thus ionospheric anomalies can be regarded as an earthquake precursor, I am working with Dr. Dan Tao to investigate the Total Electron Content (TEC) and plasma parameters (electron, ion density and temperature) anomlies and aim to find out the correlations between ionospheric anomalies and strong earthquakes.
+Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupling: vertical vibrations of the Earth’s surface launch pressure waves in the neutral atmosphere that grow in amplitude by several orders of magnitude as they attain ionospheric heights. Thus ionospheric anomalies can be regarded as an earthquake precursor, I am working with Dr. Dan Tao to investigate the Total Electron Content (TEC) and plasma parameters (electron, ion density and temperature) anomlies prior to earthquakes and aim to find out the correlations between ionospheric anomalies and strong earthquakes. The project is finished, manuscript has been submitted to <a href="https://earth-planets-space.springeropen.com/">Earth, Planets and Space.
 
 <img src="../images/tao.png" alt="Drawing" /> 
 
@@ -29,7 +29,7 @@ Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupl
 
 ### MHD Simulation of Solar Wind Interaction with Mars
 
-The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. The solar wind interaction with Mars plays a crucial role in Martian atmospheric evolution. Through the "Undergraduates Research Program" funded by Chinese Academy of Sciences (CAS), I am able to work with Dr.Yiteng Zhang at National Space Science Center (NSSC) on solar wind interaction with Mars (ion escape process) to gain a better understanding of Martian atmopsheric escape process and planetary evolution history. 
+The Mars of several billion years ago is a very differnt Mars than that of today. Several billion years ago, Mars was geologically active from core to crust, possessed a much thicker atmosphere, and had an internally produced magnetic field. The solar wind interaction with Mars plays a crucial role in Martian atmospheric evolution. Through the "Undergraduates Research Program" funded by Chinese Academy of Sciences (CAS), I am able to work with Dr.Yiteng Zhang at National Space Science Center (NSSC) on MHD simulation of solar wind interaction with Mars (ion escape process) to gain a better understanding of Martian atmopsheric escape process and planetary evolution history. 
 
 <img src="../images/Maven_NASAGSFC.png" alt="Drawing" /> 
 
