@@ -65,6 +65,7 @@ Awards
 Service and Membership
 ======
 * Student Member of AGU (American Geophysical Union)
+* Student Member of EGU (European Geoscience Union)
 
 Academic and Life Outreach
 ======
