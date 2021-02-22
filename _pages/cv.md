@@ -27,7 +27,7 @@ Research Experience
   * Research Topic: MHD Model Investgation of Effects of Crustal Fields Rotation on Martian Space Environment (Ion Escape)
   * Supervisor: Dr.Yiteng Zhang
 * 2021 March-Present: Research Intern
-  * <a href="https://www.irf.se/en/">Swedish Institute of Space Physics (IRF)
+  * <a href="https://www.irf.se/en/">Swedish Institute of Space Physics (IRF)</a>.
   * Supervisor: Prof.Hans Nilsson 
 
   
