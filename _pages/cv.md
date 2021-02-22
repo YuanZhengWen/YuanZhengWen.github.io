@@ -39,13 +39,13 @@ Programming Skills:
 Language Skills:
 * Sichuan Dialect
 * Mandarin
-* English (CET4:624 CET6:635)
+* English (CET4:624 CET6:635 TOEFL:105(Reading:28 Listening:30 Speaking:25 Writing:22))
 * Cantonese
 
 
 Publications
 ======
-  None
+* Wen, Y., G. Wang, D. Tao, Z. Zhima, Y. Zong, and X. Shen 2021 Seismic-ionospheric disturbances in ionospheric TEC and plasma parameters associated with the 14 July 2019 Mw 7.2 Laiwui earthquake detected by the GPS and CSES. arXiv e-prints:2102-3536.
   
 Talks
 ======
