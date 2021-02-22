@@ -26,6 +26,9 @@ Research Experience
   * <a href="http://english.nssc.cas.cn/">National Space Sciences Center, Chinese Academy of Sciences (CAS)</a>.
   * Research Topic: MHD Model Investgation of Effects of Crustal Fields Rotation on Martian Space Environment (Ion Escape)
   * Supervisor: Dr.Yiteng Zhang
+* 20201 March-Present: Research Intern
+  * <a href="https://www.irf.se/en/">Swedish Institue of Space Physics (IRF)
+  * Supervisor: Prof.Hans Nilsson 
 
   
 Skills
@@ -56,6 +59,10 @@ Teaching
 * 2019 Spring,2019 Fall:Teaching Assistant
 * Course：College Physics
 * Professor: Dr.Huajun Wang
+
+* 2020 Spring: Teaching Assistant
+* Course: Mathematical Methods for Physics
+* Lecturer: Dr.Jun Hu
   
 Awards
 ======
