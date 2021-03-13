@@ -28,7 +28,7 @@ Research Experience
   * Supervisor: Dr.Yiteng Zhang
 * 2021 March-Present: Research Intern
   * <a href="https://www.irf.se/en/">Swedish Institute of Space Physics (IRF)</a>.
-  * Supervisor: Prof.Hans Nilsson 
+  * Supervisor: Prof.Hans Nilsson and Prof. Mats Holmstrom
 
   
 Skills
