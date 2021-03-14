@@ -38,7 +38,11 @@ The Mars of several billion years ago is a very differnt Mars than that of today
 
 ### Investigations of Martian Tail Boundary Layer with Mars Express ASPERA-3
 
-In our statistical data we can see a broad region of mixing of solar wind and planetary ions at the boundary of the Martian tail. From statistics we cannot tell if this is flaring, ie.e the tail boundary moves back and forth, so that the average becomes mixed, or a true mixing of plasma. The latter would be.a signature of boundary mixing processes like the Kelvin Helmholtz instability. Using moment data this is straightforward to investigate. Moment data from Mars Express does have some shortcomings to get accurate absolute numbers, mainly because of a partial field of view. But for this purpose it works fine. Good boundary layer studies have been done with MAVEN, where the boundary is typically quite distinct. We have better coverage tail data going deeper in the tail and also for a much longer time period from the Mars Express Aspera-3 IMA instrument, which we will use
+In spaceraft (MEX, MAVEN) statistical data we can see a broad region of mixing of solar wind and planetary ions at the boundary of the Martian tail. From statistics we cannot tell if this is flaring, ie.e the tail boundary moves back and forth, so that the average becomes mixed, or a true mixing of plasma. The latter would be.a signature of boundary mixing processes like the Kelvin Helmholtz instability. Using moment data this is straightforward to investigate. Moment data from Mars Express does have some shortcomings to get accurate absolute numbers, mainly because of a partial field of view. We have better coverage tail data going deeper in the tail and also for a much longer time period from the Mars Express Aspera-3 IMA instrument, which will be used in our investagtions.
+
+<img src="../images/Mars_Express_artist_s_view_pillars.jpg" alt="Drawing" /> 
+
+<center> <em> Mars Express, which has been orbiting around Mars for about 18 years, had told us a lot about the space environment of Mars. Image courtesy of <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/Mars_Express_how_to_be_fastest_to_the_Red_Planet">European Space Agency.</a> </em> </center>
 
 ## Visitors
 
