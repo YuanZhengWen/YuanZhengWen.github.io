@@ -18,6 +18,7 @@ As an undergraduate student, I am still exploring my research interests, as for 
 
 - [Seismic Ionospheric Anomalies](#seismic-ionospheric-anomalies)
 - [MHD Simulation of Solar Wind Interaction with Mars](#mhd-simulation-of-solar-wind-interaction-with-mars)
+- [Investigations of Martian Tail Boudary Layer with Mars Express ASPERA-3](#investigations-of-martian-tail-boundary-layer-with-mars-express-aspera-3)
 
 ### Seismic Ionospheric Anomalies
 
@@ -35,6 +36,9 @@ The Mars of several billion years ago is a very differnt Mars than that of today
 
 <center> <em> Artist's impression of solar wind interaction with the current Mars space environment. Image courtesy of <a href="https://www.nasa.gov/press-release/nasa-mission-reveals-speed-of-solar-wind-stripping-martian-atmosphere/">NASA Goddard Space Flight Center.</a> </em> </center>
 
+### Investigations of Martian Tail Boundary Layer with Mars Express ASPERA-3
+
+In our statistical data we can see a broad region of mixing of solar wind and planetary ions at the boundary of the Martian tail. From statistics we cannot tell if this is flaring, ie.e the tail boundary moves back and forth, so that the average becomes mixed, or a true mixing of plasma. The latter would be.a signature of boundary mixing processes like the Kelvin Helmholtz instability. Using moment data this is straightforward to investigate. Moment data from Mars Express does have some shortcomings to get accurate absolute numbers, mainly because of a partial field of view. But for this purpose it works fine. Good boundary layer studies have been done with MAVEN, where the boundary is typically quite distinct. We have better coverage tail data going deeper in the tail and also for a much longer time period from the Mars Express Aspera-3 IMA instrument, which we will use
 
 ## Visitors
 
