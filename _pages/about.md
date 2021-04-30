@@ -44,6 +44,9 @@ In spacecraft (MEX, MAVEN) statistical data we can see a broad region of mixing 
 
 <center> <em> Mars Express, which has been orbiting around Mars for about 18 years, had told us a lot about the space environment of Mars. Image courtesy of <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/Mars_Express_how_to_be_fastest_to_the_Red_Planet">European Space Agency.</a> </em> </center>
 
+<img src="../images/MEX.png" alt="Drawing" /> 
+
+<center> <em> Example of spatial distributions of solar wind ions and planetary ions in the Martian space environment dervied from Mars Express ASPERA-3 IMA moment data.(Image Courtsey of Yuanzheng Wen)</a> </em> </center>
 ## Visitors
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
