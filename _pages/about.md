@@ -46,7 +46,7 @@ In spacecraft (MEX, MAVEN) statistical data we can see a broad region of mixing 
 
 <img src="../images/MEX.png" alt="Drawing" /> 
 
-<center> <em> Example of spatial distributions of solar wind ions and planetary ions in the Martian space environment dervied from Mars Express ASPERA-3 IMA moment data.(Image Courtsey of Yuanzheng Wen).</a> </em> </center>
+<center> <em> Example of spatial distributions of solar wind ions and planetary ions in the Martian space environment dervied from Mars Express ASPERA-3 IMA moment data.(Image Courtsey of Yuanzheng Wen).</em> </center>
 ## Visitors
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
