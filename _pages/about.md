@@ -51,6 +51,8 @@ In spacecraft (MEX, MAVEN) statistical data we can see a broad region of mixing 
 <img src="../images/MEX.png" alt="Drawing" /> 
 
 <center> <em> Example of spatial distributions of solar wind ions and planetary ions in the Martian space environment derived from Mars Express ASPERA-3 IMA moment data.(Image Courtsey of Yuanzheng Wen).</em> </center>
+  
+### MAVEN Observations of Flow-Aligned Component of IMF Impact on Current Sheet Structure in Martian Magnetotail
 ## Visitors
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
