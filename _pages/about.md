@@ -19,7 +19,7 @@ As an undergraduate student, I am still exploring my research interests, as for 
 - [Seismic Ionospheric Anomalies](#seismic-ionospheric-anomalies)
 - [MHD Simulation of Solar Wind Interaction with Mars](#mhd-simulation-of-solar-wind-interaction-with-mars)
 - [Investigations of Martian Tail Boudary Layer with Mars Express ASPERA-3](#investigations-of-martian-tail-boundary-layer-with-mars-express-aspera-3)
-- [MAVEN Observations of the Flow-Aligned Componet of IMF Imapcat on Current Sheet Structure in Martian Magnetotail](#maven-obeservations-of-the-flow-alinged-component-of-imf-impact-on-current-sheet-structure-in-martian-magnetotail)
+- [Statistical Investigations of IMF Impcat on Current Sheet Structure in Martian Magnetotail](#statistical-investigations-of-imf-impact-on-current-sheet-structure-in-martian-magnetotail)
 
 ### Seismic Ionospheric Anomalies
 
@@ -53,7 +53,7 @@ In spacecraft (MEX, MAVEN) statistical data we can see a broad region of mixing 
 
 <center> <em> Example of spatial distributions of solar wind ions and planetary ions in the Martian space environment derived from Mars Express ASPERA-3 IMA moment data.(Image Courtsey of Yuanzheng Wen).</em> </center>
   
-### MAVEN Observations of the Flow-Aligned Component of IMF Impact on Current Sheet Structure in Martian Magnetotail
+### Statistical Investigations of IMF Impcat on Current Sheet Structure in Martian Magnetotail
 ## Visitors
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
