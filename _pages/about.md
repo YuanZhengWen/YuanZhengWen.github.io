@@ -13,7 +13,7 @@ redirect_from:
  
  You can also follow my Github, Twitter and Facebook in the "Follow" section. 
  
-## Research Interests
+## Research Projects
 As an undergraduate student, I am still exploring my research interests, as for now I have been involved in research about
 
 - [Seismic Ionospheric Anomalies](#seismic-ionospheric-anomalies)
