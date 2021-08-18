@@ -54,8 +54,9 @@ In spacecraft (MEX, MAVEN) statistical data we can see a broad region of mixing 
 <center> <em> Example of spatial distributions of solar wind ions and planetary ions in the Martian space environment derived from Mars Express ASPERA-3 IMA moment data.(Image Courtsey of Yuanzheng Wen).</em> </center>
   
 ### Statistical Investigations of IMF Impcat on Current Sheet Structure in Martian Magnetotail
+  
 <img src="../images/20141222.png" alt="Drawing" /> 
-<center> <em> MAVEN crossing of the Martian magnetosphere on 22 December 2014. The Current Sheet crossing is marked by the vertical red line,the sign of Bx component changes, the field orientation changes from tailward to the Marsward, accompanied by an enhancement of the energetic electron flux and ion flux. (Image Courtsey of Yuanzheng Wen).</em> </center>
+<center> <em> MAVEN crossing of the Martian magnetosphere on 22 December 2014. The Current Sheet crossing is marked by the vertical red line,the sign of Bx component changes, the field orientation changes from tailward to the Marsward, accompanied by an enhancement of the energetic electron flux and ion flux. (Image Courtsey of Yuanzheng Wen). </em> </center>
+  
 ## Visitors
-
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
