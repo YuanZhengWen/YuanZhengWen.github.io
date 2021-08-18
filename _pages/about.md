@@ -56,8 +56,9 @@ In spacecraft (MEX, MAVEN) statistical data we can see a broad region of mixing 
 ### Statistical Investigations of IMF Impact on Current Sheet Structure in Martian Magnetotail
 An earlier statistical survey suggested that the flow-aligned component of upstream interplanetary magnetic field (IMF) may play an important role in controlling the lobe asymmetries of the Venusian magnetotail. The tail current sheet would be displaced and the magnetic field configuration would show asymmetries with respect to the current sheet. The asymmetries are expected to be more evident when the flow-aligned component becomes dominant. With carefully selected cases as well as a statistical study based on MAVEN observations in the near-Mars tail, we intend to investigate the flow-aligned component of IMF impact on current sheet structure in the Martian magnetotail. I am currently working with <a href="https://scholar.google.com/citations?user=QimEmw8AAAAJ&hl=en-CN&oi=ao">Prof. Zhaojin Rong</a> at Key Laboratory of Earth and Planetary Physics, <a href="http://english.igg.cas.cn/">Institute of Geology and Geophysics</a>, Chinese Academy of Sciences on this project.
   
+<img src="../images/20141222.png" alt="Drawing" /> 
 <center> <em> MAVEN crossing of the Martian magnetosphere on 22 December 2014. The Current Sheet crossing is marked by the vertical dashed red line, the sign of Bx component changes, the field orientation changes from tailward to the sunward, accompanied by an enhancement of the energetic electron flux and ion flux. (Image Courtsey of Yuanzheng Wen). </em> </center>
- <img src="../20141222.png" alt="Drawing" /> 
+ 
   
 ## Visitors
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
