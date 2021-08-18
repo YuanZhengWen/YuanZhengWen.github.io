@@ -58,6 +58,7 @@ An earlier statistical survey suggested that the flow-aligned component of upstr
   
 <img src="../images/20141222.png" alt="Drawing" /> 
 <center> <em> MAVEN crossing of the Martian magnetosphere on 22 December 2014. The Current Sheet crossing is marked by the vertical dashed red line, the sign of Bx component changes, the field orientation changes from tailward to the sunward, accompanied by an enhancement of the energetic electron flux and ion flux. (Image Courtsey of Yuanzheng Wen). </em> </center>
+ <img src="../images/Bx_contour.png" alt="Drawing" /> 
   
 ## Visitors
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
