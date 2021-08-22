@@ -25,7 +25,7 @@ As an undergraduate student, I am still exploring my research interests, as for 
 
 Earthquakes can excite atmospheric and ionospheric disturbances by dynamic coupling: vertical vibrations of the Earth’s surface launch pressure waves in the neutral atmosphere that grow in amplitude by several orders of magnitude as they attain ionospheric heights. Thus ionospheric anomalies can be regarded as an earthquake precursor, I am working with Dr. Dan Tao to investigate the Total Electron Content (TEC) and plasma parameters (electron, ion density and temperature) anomlies prior to earthquakes and aim to find out the correlations between ionospheric anomalies and strong earthquakes. The project is finished, manuscript has been submitted to <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research.
 
-<img src="../images/tao.png" alt="Drawing" /> 
+<img src="../images/Figure6.tif" alt="Drawing" /> 
 
 <center> <em> A diagram demonstrating TEC anomlies before 2006 M7.7 Java earthquake. Figure sourced from <a href="https://angeo.copernicus.org/articles/35/589/2017/angeo-35-589-2017.pdf">Tao et al., 2017</a>.</em> </center>
 
