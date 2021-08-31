@@ -29,13 +29,18 @@ Research Experience
 * 2021 March-Present: Research Intern
   * <a href="https://www.irf.se/en/">Swedish Institute of Space Physics (IRF)</a>.
   * Supervisor: Prof.Hans Nilsson and Prof. Mats Holmstrom
+* 2021 July-Present: Research Intern
+  * Key Laboratory of Earth and Planetary Physics, <a href="http://english.igg.cas.cn/">Institute of Geology and Geophysics, Chinese Academy of Sciences</a>.
+  * Supervisor: Prof. Zhaojin Rong
+
+ 
 
   
 Skills
 ======
 Programming Skills:
 * C (Basic)
-* Matlab (Intermediate) in progress
+* Matlab (Fluent) in progress
 * Python (Basic) in progress
 * IDL (Basic) in Progress
 
