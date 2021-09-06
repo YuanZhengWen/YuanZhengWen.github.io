@@ -58,6 +58,10 @@ An earlier statistical survey suggested that the flow-aligned component of upstr
   
 <img src="../images/20141222.png" alt="Drawing" /> 
 <center> <em> MAVEN crossing of the Martian magnetosphere on 22 December 2014. The bow shock crossings are marked by the vertical solid black lines. The Current Sheet crossing is marked by the vertical dashed red line, the sign of Bx component changes, the field orientation changes from tailward to the sunward, accompanied by an enhancement of the energetic electron flux and ion flux. (Image Courtsey of Yuanzheng Wen). </em> </center>
+
+<img src="../images/cone.png" alt="Drawing" /> 
+<center> <em>Scattering plot of the shifted distance of the current sheet versus the cone angle of the IMF. The lengths of the horizontal error bars represent the cone angle deviation between the IMF for inbound and outbound magnetospheric crossings. The lengths of the vertical error bars represent the uncertainty of the shifted distance due to the uncertainty of the current sheet normal estimated by MVA. (Image Courtsey of Yuanzheng Wen). </em> </center>
+
 <img src="../images/Bx_crust.png" alt="Drawing" /> 
 <center> <em> The distribution of the Bx component (MAVEN data from October 2014 to February 2020)in the modified Mars-Solar-Electric (MSE) coordinates when the average upstream IMF (B = (B1 + B2)/2) is
 significantly (a) sunward (cone angle <60°) and (b) tailward (cone angle >120°) (c) cross-flow (70°< cone angle <110°). The average configuration of the tail current
