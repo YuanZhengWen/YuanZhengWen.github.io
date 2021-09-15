@@ -65,6 +65,6 @@ An earlier statistical survey suggested that the flow-aligned component of upstr
 <img src="../images/CS_compare.png" alt="Drawing" /> 
 <center> <em> The distribution of the Bx component (MAVEN data from October 2014 to February 2020)in the modified Mars-Solar-Electric (MSE) coordinates when the average upstream IMF (B = (B1 + B2)/2) is
 significantly (a) sunward (cone angle <60°) and (b) tailward (cone angle >120°) (c) cross-flow (70°< cone angle <110°). The average configuration of the tail current
-sheet structure are marked by the solid black lines. (a)-(c) represent the current sheet configurerations without crustal fields effects. (d)-(f) represent the current sheet configurerations with crustal fields effects. (Image Courtsey of Yuanzheng Wen). </em> </center>  
+sheet structure are marked by the solid black lines. (a)-(c) represent the current sheet configurations without crustal fields effects. (d)-(f) represent the current sheet configurations with crustal fields effects. (Image Courtsey of Yuanzheng Wen). </em> </center>  
 ## Visitors
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
