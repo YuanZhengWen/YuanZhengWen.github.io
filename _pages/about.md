@@ -19,7 +19,7 @@ As an undergraduate student, I am still exploring my research interests, as for 
 - [Seismic Ionospheric Anomalies](#seismic-ionospheric-anomalies)
 - [MHD Simulation of Solar Wind Interaction with Mars](#mhd-simulation-of-solar-wind-interaction-with-mars)
 - [Investigations of Martian Tail Boudary Layer with Mars Express ASPERA-3](#investigations-of-martian-tail-boundary-layer-with-mars-express-aspera-3)
-- [Statistical Investigations of IMF Impact on Current Sheet Structure in Martian Magnetotail](#statistical-investigations-of-imf-impact-on-current-sheet-structure-in-martian-magnetotail)
+- [Statistical Study of IMF Impact on Current Sheet Structure in Martian Magnetotail](#statistical-study-of-imf-impact-on-current-sheet-structure-in-martian-magnetotail)
 
 ### Seismic Ionospheric Anomalies
 
@@ -53,7 +53,7 @@ In spacecraft (MEX, MAVEN) statistical data we can see a broad region of mixing 
 
 <center> <em> Example of spatial distributions of solar wind ions and planetary ions in the vicinity of Martian space environment derived from Mars Express ASPERA-3 IMA moment data.(Image Courtsey of Yuanzheng Wen).</em> </center>
   
-### Statistical Investigations of IMF Impact on Current Sheet Structure in Martian Magnetotail
+### Statistical Study of IMF Impact on Current Sheet Structure in Martian Magnetotail
 An earlier statistical survey suggested that the flow-aligned component of upstream interplanetary magnetic field (IMF) may play an important role in controlling the lobe asymmetries of the Venusian magnetotail (McComas et al., 1986). The tail current sheet would be displaced and the magnetic field configuration would show asymmetries with respect to the current sheet. The asymmetries are expected to be more evident when the flow-aligned component becomes dominant. With carefully selected cases as well as a statistical study based on <a href="https://lasp.colorado.edu/home/maven/">MAVEN</a> observations in the near-Mars tail, we intend to investigate the flow-aligned component of IMF impact on current sheet structure in the Martian magnetotail (with crustal fields, solar EUV and other parameters considered). I am currently working with <a href="https://scholar.google.com/citations?user=QimEmw8AAAAJ&hl=en-CN&oi=ao">Prof. Zhaojin Rong</a> at Key Laboratory of Earth and Planetary Physics, <a href="http://english.igg.cas.cn/">Institute of Geology and Geophysics</a>, Chinese Academy of Sciences on this project. The manuscript (To be submitted to <a href="https://agupubs.onlinelibrary.wiley.com/journal/21699402">JGR: Space Physics</a>) of the project is avaliable<a href="http://yuanzhengwen.github.io/files/JGR_Manuscript.pdf"> here </a>. The presentation slides of my work at IGG are<a href="http://yuanzhengwen.github.io/files/IGG_Presentation.pdf"> here </a>.
   
 <img src="../images/20180401.png" alt="Drawing" /> 
