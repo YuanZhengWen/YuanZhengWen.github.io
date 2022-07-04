@@ -73,7 +73,7 @@ Our study focus for this analysis will be on ions escaping through the Martian m
 
 <img src="../images/MEX-MAVEN_20201023.png" alt="Drawing" /> 
 <img src="../images/IMA-STATIC_20201023.png" alt="Drawing" /> 
-<center> <em> MAVEN crossing of the Martian magnetosphere on 1 April and 2 April 2018. The bow shock crossings are marked by the vertical solid black lines. The Current Sheet crossing is marked by the vertical dashed red line, the sign of Bx component changes, the field orientation changes from sunward to the tailward, accompanied by an enhancement of the energetic electron flux and ion flux. (Image Courtsey of Yuanzheng Wen). </em> </center>
+<center> <em> Example of tail ion escape joint observations from MAVEN and MEX on 2020-10-23. (Image Courtsey of Yuanzheng Wen). </em> </center>
 
 
 ## Visitors
