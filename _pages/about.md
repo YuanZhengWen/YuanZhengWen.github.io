@@ -20,6 +20,7 @@ As an undergraduate student, I am still exploring my research interests, as for 
 - [MHD Simulation of Solar Wind Interaction with Mars](#mhd-simulation-of-solar-wind-interaction-with-mars)
 - [Investigations of Martian Tail Boudary Layer with Mars Express ASPERA-3](#investigations-of-martian-tail-boundary-layer-with-mars-express-aspera-3)
 - [Statistical Study of IMF Impact on the Current Sheet Structure in Martian Magnetotail](#statistical-study-of-imf-impact-on-the-current-sheet-structure-in-martian-magnetotail)
+- [Joint Observations of Tail Ion Escape from MAVEN and MEX](#joint-observations-of-tail-ion-escape-from-maven-and-mex)
 
 ### Seismic Ionospheric Anomalies
 
@@ -66,5 +67,9 @@ An earlier statistical survey suggested that the flow-aligned component of upstr
 <center> <em> The distribution of the Bx component (MAVEN data from October 2014 to February 2020)in the modified Mars-Solar-Electric field (MSE) coordinates when the average upstream IMF (B = (B1 + B2)/2) is
 significantly (a) sunward (cone angle <60°) and (b) tailward (cone angle >120°) (c) cross-flow (70°< cone angle <110°). The average configuration of the tail current
 sheet structure are marked by the solid black lines. (a)-(c) represent the current sheet configurations without crustal fields effects. (d)-(f) represent the current sheet configurations with crustal fields effects. (Image Courtsey of Yuanzheng Wen). </em> </center>  
+
+### Joint Observations of Tail Ion Escape from MAVEN and MEX
+Our study focus for this analysis will be on ions escaping through the Martian magnetotail (as opposed to ion escape in the pickup ion plume or from the extended corona).
+
 ## Visitors
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
