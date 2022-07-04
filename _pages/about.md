@@ -69,7 +69,12 @@ significantly (a) sunward (cone angle <60°) and (b) tailward (cone angle >120°
 sheet structure are marked by the solid black lines. (a)-(c) represent the current sheet configurations without crustal fields effects. (d)-(f) represent the current sheet configurations with crustal fields effects. (Image Courtsey of Yuanzheng Wen). </em> </center>  
 
 ### Joint Observations of Tail Ion Escape from MAVEN and MEX
-Our study focus for this analysis will be on ions escaping through the Martian magnetotail (as opposed to ion escape in the pickup ion plume or from the extended corona).
+Our study focus for this analysis will be on ions escaping through the Martian magnetotail (as opposed to ion escape in the pickup ion plume or from the extended corona). For each identified event we will examine the measured ion distributions from both spacecraft, with an emphasis on how the velocity distributions vary as a function of downstream distance. We will also be cognizant of the location of both spacecraft in MSE coordinates. I am currently working with <a href="https://scholar.google.com/citations?user=LjyXDnEAAAAJ&hl=en&oi=ao">Prof. Dave Brian</a> and <a href="https://scholar.google.com/citations?hl=en&user=TFqI9AcAAAAJ">Dr. Yaxue Dong</a> of <a href="https://lasp.colorado.edu/">LASP</a> and <a href="https://scholar.google.com/citations?user=37m29h8AAAAJ&hl=en&oi=ao">Prof. Hans Nilsson</a> of IRF on this project.
+
+<img src="../images/MEX-MAVEN_20201023.png" alt="Drawing" /> 
+<img src="../images/IMA-STATIC_20201023.png" alt="Drawing" /> 
+<center> <em> MAVEN crossing of the Martian magnetosphere on 1 April and 2 April 2018. The bow shock crossings are marked by the vertical solid black lines. The Current Sheet crossing is marked by the vertical dashed red line, the sign of Bx component changes, the field orientation changes from sunward to the tailward, accompanied by an enhancement of the energetic electron flux and ion flux. (Image Courtsey of Yuanzheng Wen). </em> </center>
+
 
 ## Visitors
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
