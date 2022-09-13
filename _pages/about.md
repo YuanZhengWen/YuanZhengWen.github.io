@@ -11,7 +11,7 @@ redirect_from:
  
  I will try to keep my website frequently updated and make it better! 
  
- You can also follow my Github, Twitter and Facebook in the "Follow" section. 
+ You can also follow my Github, <a href="https://twitter.com/WenKingsley">Twitter</a> and <a href="https://www.facebook.com/kingsley.wen.75">Facebook</a> in the "Follow" section. 
  
 ## Research Projects
 As an undergraduate student, I am still exploring my research interests, as for now I have been involved in research about
