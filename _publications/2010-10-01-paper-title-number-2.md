@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Are the Significant Ionospheric Anomalies Associated with the 2007 Great Deep-Focus Undersea Jakarta–Java Earthquake?"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022-01-01-noise-cancellation
+excerpt: 'Are the Significant Ionospheric Anomalies Associated with the 2007 Great Deep-Focus Undersea Jakarta–Java Earthquake?'
+date: 2022-05-05
+venue: 'Remote Sensing'
+paperurl: 'https://doi.org/10.3390/rs14092211'
+citation: 'Tao D, Wang G, Zong J, Wen Y, Cao J, Battiston R, Zeren Z. Are the Significant Ionospheric Anomalies Associated with the 2007 Great Deep-Focus Undersea Jakarta–Java Earthquake? Remote Sensing. 2022; 14(9):2211. https://doi.org/10.3390/rs14092211'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Are the Significant Ionospheric Anomalies Associated with the 2007 Great Deep-Focus Undersea Jakarta–Java Earthquake?
