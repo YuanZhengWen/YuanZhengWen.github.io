@@ -1,15 +1,11 @@
 ---
-title: "Ionospheric TEC and Plasma Parameters Anomalies Associated with the 14 July 2019 Mw7.2 Laiwui Earthquake Detected by the GPS and CSES"
-collection: preprint
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is the prepint of the work about seismic-ionosperhic anomalies, the manusript is currently under review at Adavences in Space Research.'
-date: 2021-05-27
-venue: 'Journal 1'
-paperurl: 'http://yuanzhengwen.github.io/files/Manuscript-ASR.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: " Ionospheric TEC and plasma anomalies possibly associated with the 14 July 2019 Mw7.2 Indonesia Laiwui earthquake, from analysis of GPS and CSES data"
+collection: publications
+permalink: /publication/2022-01-01-noise-cancellation
+excerpt: 'Ionospheric anomalies possibly associated with earthquake events as observed by multi-spacecraft.'
+date: 2022-06-11
+venue: 'Earth and Planetary Physics'
+paperurl: 'http://doi.org/10.26464/epp2022028'
+citation: 'Wen, Y. Z., Tao, D., Wang, G. X., Zong, J. Y., Cao, J. B., Battiston, R., ZeRen, Z. M., and Shen, X. H. (2022). Ionospheric TEC and plasma anomalies possibly associated with the 14 July 2019 Mw7.2 Indonesia Laiwui earthquake, from analysis of GPS and CSES data. Earth Planet. Phys., 6(4), 313–328. http://doi.org/10.26464/epp2022028'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://yuanzhengwen.github.io/files/Manuscript-ASR.pdf)
-
-Recommended citation: Wen et al. (2021). "Ionospheric TEC and Plasma Parameters Anomalies Associated with the 14 July 2019 Mw7.2 Laiwui Earthquake Detected by the GPS and CSES." <i>Journal 1</i>.
+Ionospheric anomalies possibly associated with earthquake events as observed by multi-spacecraft..
