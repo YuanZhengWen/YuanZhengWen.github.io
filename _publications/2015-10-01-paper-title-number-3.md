@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Statistical investigations of the flow-aligned component of IMF impact on the current sheet structure in Martian magnetotail: MAVEN observations"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/Tao2022
+excerpt: 'Statistical investigations of the flow-aligned component of IMF impact on the current sheet structure in Martian magnetotail: MAVEN observations'
+date: 2022-05-05
+venue: 'Journal of Geophysical Research'
+paperurl: 'https://yuanzhengwen.cn/files/JGR_Manuscript.pdf'
+citation: 'YZ Wen, ZJ Rong, H Nilsson et al., Statistical investigations of the flow-aligned component of IMF impact on the current sheet structure in Martian magnetotail: MAVEN observations'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Statistical investigations of the flow-aligned component of IMF impact on the current sheet structure in Martian magnetotail: MAVEN observations
