@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Welcome to my homepage! I am Yuanzheng Wen (文渊正) or Kingsley, currently an undergraduate researcher at <a href="https://lasp.colorado.edu/">Laboratory for Atmospheric and Space Physics</a> and the <a href="https://www.irf.se/en/">Swedish Institute of Space Physics</a> , and will be a Physics Ph.D. student at the <a href="https://physics.uiowa.edu/">University of Iowa</a> starting in 2023 Fall.
+ Welcome to my homepage! I am Yuanzheng Wen (文渊正) or Kingsley, currently an undergraduate researcher at <a href="https://lasp.colorado.edu/">Laboratory for Atmospheric and Space Physics</a> and the <a href="https://www.irf.se/en/">Swedish Institute of Space Physics</a> , and will be a Physics Ph.D. student at the <a href="https://physics.uiowa.edu/">Department of Physics and Astronomy</a> at the <a href="https://uiowa.edu/">University of Iowa</a> starting in 2023 Fall.
  
  I will try to keep my website frequently updated and make it better! 
  
