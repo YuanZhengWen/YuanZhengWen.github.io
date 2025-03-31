@@ -1,6 +1,6 @@
 ---
 title: "Statistical investigations of the flow-aligned component of IMF impact on the current sheet structure in Martian magnetotail: MAVEN observations"
-collection: publications
+collection: JGR-Manuscript
 permalink: /publication/Tao2022
 excerpt: 'Statistical investigations of the flow-aligned component of IMF impact on the current sheet structure in Martian magnetotail: MAVEN observations'
 date: 2022-05-05
