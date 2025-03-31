@@ -1,5 +1,5 @@
 ---
-title: " IMultipoint Observations of Magnetic Reconnection in the Martian Magnetotail Triggered by an Interplanetary Magnetic Field Rotation"
+title: " Multipoint Observations of Magnetic Reconnection in the Martian Magnetotail Triggered by an Interplanetary Magnetic Field Rotation"
 collection: publications
 permalink: /publication/Wen2025
 excerpt: 'Ionospheric anomalies possibly associated with earthquake events as observed by multi-spacecraft.'
