@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Wen2025
 date: 2026-04
 venue: 'AGU Advances'
-link: 'http://yuanzhengwen.cn/files/Wen_2025_ApJ_993_201.pdf'
+link: 'http://yuanzhengwen.cn/files/AGU Advances - 2026 - Wen - Magnetic Reconnection as a Potential Trigger for Magnetotail Flapping at Mars Insights From.pdf'
 paperurl: 'https://doi.org/10.1029/2026AV002343'
 citation: 'Wen, Y., Halekas, J. S., Shen, H.-W., Zhang, C., Lillis, R. J., Gao, J., et al. (2026). Magnetic reconnection as a potential trigger for magnetotail flapping at Mars: Insights from MAVEN and Tianwen-1 observations. AGU Advances, 7, e2026AV002343.'
 ---
