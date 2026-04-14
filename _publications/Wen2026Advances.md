@@ -1,7 +1,7 @@
 ---
 title: "Magnetic Reconnection as a Potential Trigger for Magnetotail Flapping at Mars: Insights From MAVEN and Tianwen‐1 Observations"
 collection: publications
-permalink: /publication/Wen2025
+permalink: /publication/Wen2026
 date: 2026-04
 venue: 'AGU Advances'
 link: 'http://yuanzhengwen.cn/files/AGU_Advances.pdf'
