@@ -81,4 +81,10 @@ Our study focus for this analysis will be on ions escaping through the Martian m
 
 ## Visitors
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5m1b9f6z3o2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+## Visitors
+
+{% raw %}
+<div align="center">
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5m1b9f6z3o2&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+</div>
+{% endraw %}
