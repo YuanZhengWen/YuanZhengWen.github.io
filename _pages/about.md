@@ -77,4 +77,4 @@ Our study focus for this analysis will be on ions escaping through the Martian m
 
 
 ## Visitors
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rphTqt7Woyt0GpZeYefVxEGyERu-wn2QfPHNRuIxyBc"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-hnmM3iaO7de2q0SfSIiaXkavVA7izm4spaZliPl0gg&cl=ffffff&w=a"></script>
