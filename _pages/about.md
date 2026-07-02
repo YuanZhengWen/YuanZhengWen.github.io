@@ -14,7 +14,7 @@ redirect_from:
  You can also follow my Github, <a href="https://twitter.com/WenKingsley">Twitter</a> and <a href="https://www.facebook.com/kingsley.wen.75">Facebook</a> in the "Follow" section. 
  
 ## Research Projects
-As an undergraduate student, I am still exploring my research interests, as for now I have been involved in research about
+I am still expanding my research interests, as for now I have been involved in research about
 
 - [Seismic Ionospheric Anomalies](#seismic-ionospheric-anomalies)
 - [MHD Simulation of Solar Wind Interaction with Mars](#mhd-simulation-of-solar-wind-interaction-with-mars)
